@@ -21,7 +21,7 @@ Players picture by @brfootball and realmadrid.com
 To identify the performance of this transfer window from business and sport persepective 
 
 #	Data Sourcing
- I took the dataset from kaggle, you can download it on this [link](https://www.kaggle.com/datasets/davidmolina/football-summer-market-2022]
+ I took the dataset from kaggle, you can download it on this [link](https://www.kaggle.com/datasets/davidmolina/football-summer-market-2022).
  The colums contain several fields:
 -	name of player
 -	position
@@ -38,6 +38,7 @@ To identify the performance of this transfer window from business and sport pers
 Aftert that I made list of club to summarize team's transfer recap using spreadsheet formula.
 
 #	Tools
+- Spreadhsheet
 -	Python
 -	Google Data Studio
 
@@ -55,22 +56,23 @@ I did the process in this [Link](https://colab.research.google.com/drive/1Oc1yfL
 -	Created column chart to identify which position has become the highest transfer fee.
 
 #	Data Viz
-After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/l1LqcPVCbfI)
-![Screenshot_7](https://user-images.githubusercontent.com/65482851/188685057-44d3cb71-4655-4522-9251-2c7ea00f0dbb.jpg)
-![Screenshot_3](https://user-images.githubusercontent.com/65482851/188685103-f7f66536-3e47-4beb-83c8-5934000f9dab.jpg)
-![Screenshot_6](https://user-images.githubusercontent.com/65482851/188685120-3bd2f8eb-a28c-48fc-adae-c719bc5d5fd2.jpg)
+After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/rLFrAD4cD1Y)
+![Football_Summer_Transfer_2022_page-0001](https://user-images.githubusercontent.com/65482851/188686681-4d415b84-d5cd-46c4-b008-a84e4896ea9b.jpg)
+![Football_Summer_Transfer_2022_page-0002](https://user-images.githubusercontent.com/65482851/188686712-0ebb2616-8d86-4632-b67f-db36e210e720.jpg)
+![Football_Summer_Transfer_2022_page-0003](https://user-images.githubusercontent.com/65482851/188686728-fcab9511-7f73-41b3-ac51-9ea06b8bb94d.jpg)
 
 #	Conclusion
 -	The top 5 leagues in Europe still become the most buyers for this transfer window
 -	The top 5 clubs that become the top buyers are coming from Premier League (England) which Chelsea, Manchester United, West Ham United, Tottenham Hotspurs, and Notthingham Forrest. 
--	There 7 in total of top 10 buyers are coming from Premier League (England)
+-	There are 7 in total of top 10 buyers are coming from Premier League (England)
 -	Top sellers’ clubs are dominated by the clubs outside top 5 leagues in Europe. They are Ajax (Netherland), Sporting CP and Benfica (Portugal). 
--	Players with from range between 21 and 25 are becoming the most players transferred.
+-	Players with age range between 21 and 25 are becoming the most players transferred.
 -	Antony is the most expensive players this season move from Ajax to Manchester United with transfer fee 95.000.000 €.
 -	Players who become top 4 of the most expensive transfer this summer are below 23 years old.
 -	Chelsea has become the most buyer and the most lost team this summer by signing 7 new players.
--	Ajax become the most profitable team meanwhile.
+-	Ajax become the most profitable team.
 -	1st day of transfer window (July 1 2022) has the highest transfer transactions within # 6775 and the after that the transactions happened below 1000.
--	Centre-Forward is the highest transfer fee this summer.
+-	Centre-Forward is the position with the highest transfer fee this summer.
 -	Europe become the most destination of players this summer with Italy, Spain, Germany and United Kingdom domanited the football transfer.
+
 
