@@ -4,9 +4,9 @@
 
 This time I made Football Summer Transfer 2022 using Google Data Studio. The viz is containing the performance of the transfer window from sport and business perspective. For such a team like Chelsea, Manchester United, Barcelona and even Arsenal have made a huge movement for this transfer window to get back to their natural spot as the Top Football Team in the world. Let’s see the result next year, are they making worth transfer or still need some improvement.
 
-Layout and Theme inspired by transfermarkt.com
-Player’s icon by freepik.com
-Players picture by @brfootball and realmadrid.com
+Layout and Theme inspired by transfermarkt.com <br />
+Player’s icon by freepik.com <br />
+Players picture by @brfootball and realmadrid.com 
 
 # Content
 1.	Aim
@@ -56,7 +56,8 @@ I did the process in this [Link](https://colab.research.google.com/drive/1Oc1yfL
 -	Created column chart to identify which position has become the highest transfer fee.
 
 #	Data Viz
-After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/rLFrAD4cD1Y)
+After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/rLFrAD4cD1Y).
+
 ![Screenshot_8](https://user-images.githubusercontent.com/65482851/188687273-80c60884-9428-4568-b370-3382539bccf9.jpg)
 ![Football_Summer_Transfer_2022_page-0002](https://user-images.githubusercontent.com/65482851/188686712-0ebb2616-8d86-4632-b67f-db36e210e720.jpg)
 ![Football_Summer_Transfer_2022_page-0003](https://user-images.githubusercontent.com/65482851/188686728-fcab9511-7f73-41b3-ac51-9ea06b8bb94d.jpg)
