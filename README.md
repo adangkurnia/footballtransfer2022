@@ -57,7 +57,7 @@ I did the process in this [Link](https://colab.research.google.com/drive/1Oc1yfL
 
 #	Data Viz
 After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/rLFrAD4cD1Y)
-![Football_Summer_Transfer_2022_page-0001](https://user-images.githubusercontent.com/65482851/188686681-4d415b84-d5cd-46c4-b008-a84e4896ea9b.jpg)
+![Screenshot_8](https://user-images.githubusercontent.com/65482851/188687273-80c60884-9428-4568-b370-3382539bccf9.jpg)
 ![Football_Summer_Transfer_2022_page-0002](https://user-images.githubusercontent.com/65482851/188686712-0ebb2616-8d86-4632-b67f-db36e210e720.jpg)
 ![Football_Summer_Transfer_2022_page-0003](https://user-images.githubusercontent.com/65482851/188686728-fcab9511-7f73-41b3-ac51-9ea06b8bb94d.jpg)
 
