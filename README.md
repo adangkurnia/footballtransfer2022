@@ -56,7 +56,7 @@ I did the process in this [Link](https://colab.research.google.com/drive/1Oc1yfL
 -	Created column chart to identify which position has become the highest transfer fee.
 
 #	Data Viz
-After exploring the data, I then visualized it on Google Data Studio. Checkout the full project [here](https://datastudio.google.com/s/rLFrAD4cD1Y).
+After exploring the data, I then visualized it on Google Data Studio. Checkout the full project Looker version [here](https://datastudio.google.com/s/rLFrAD4cD1Y) or Tableau Public version [here](https://public.tableau.com/views/FootballTransferSummer2022/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ![Screenshot_8](https://user-images.githubusercontent.com/65482851/188687273-80c60884-9428-4568-b370-3382539bccf9.jpg)
 ![Football_Summer_Transfer_2022_page-0002](https://user-images.githubusercontent.com/65482851/188686712-0ebb2616-8d86-4632-b67f-db36e210e720.jpg)
