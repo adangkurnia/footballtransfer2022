@@ -64,7 +64,7 @@ After exploring the data, I then visualized it on Google Data Studio. Checkout t
 
 #	Conclusion
 -	The top 5 leagues in Europe still become the most buyers for this transfer window
--	The top 5 clubs that become the top buyers are coming from Premier League (England) which Chelsea, Manchester United, West Ham United, Tottenham Hotspurs, and Notthingham Forrest. 
+-	The top 5 clubs that become the top buyers are coming from Premier League (England) which are Chelsea, Manchester United, West Ham United, Tottenham Hotspurs, and Notthingham Forrest. 
 -	There are 7 in total of top 10 buyers are coming from Premier League (England)
 -	Top sellers’ clubs are dominated by the clubs outside top 5 leagues in Europe. They are Ajax (Netherland), Sporting CP and Benfica (Portugal). 
 -	Players with age range between 21 and 25 are becoming the most players transferred.
